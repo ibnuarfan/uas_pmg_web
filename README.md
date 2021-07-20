@@ -6,7 +6,8 @@ kelas : ti 19 b2
 
 Membuat iuran kas Rt/rw
 
-**koneksi database**
+**koneksi dan desain database**
+![image](https://user-images.githubusercontent.com/81373389/126374973-c42aa5eb-ccbd-4f57-9505-141772f6b454.png)
 ![a](https://user-images.githubusercontent.com/81373389/126341343-a01bac2d-092b-42da-a8f0-f4c31608c1bb.JPG)
 **Membuat Model transaksi**
 ![b](https://user-images.githubusercontent.com/81373389/126341354-c2a80f07-014c-47d3-bdc0-9e204de9f932.JPG)

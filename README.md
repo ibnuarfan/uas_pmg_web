@@ -1,5 +1,7 @@
 nama  : IBNU SOFFI ARFAN
+
 nim   : 311910359
+
 kelas : ti 19 b2
 
 Membuat iuran kas Rt/rw
